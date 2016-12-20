@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\a.m4a",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\raw\\a.m4a"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\media.mp4",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\raw\\media.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\raw\\music.mp3"
+    }
+]

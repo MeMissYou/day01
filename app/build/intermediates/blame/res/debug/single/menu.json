@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\show.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\menu\\show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pic.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\menu\\pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ying.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\menu\\ying.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\feng.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\menu\\feng.xml"
+    }
+]

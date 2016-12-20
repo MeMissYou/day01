@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".ShowActivity" >
+ <LinearLayout
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll_textview_show" 
+          >
+        <TextView       
+            android:id="@+id/textview_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:text="生日快乐 ,阿梨 ! 祝你18岁,生日快乐!"
+            android:textSize="25dp"
+            android:textColor="#ff0000" />
+       
+    </LinearLayout> 
+     <ImageView 
+         android:id="@+id/anim"
+         android:layout_width="260dp"
+         android:layout_height="240dp"
+         />
+</LinearLayout>

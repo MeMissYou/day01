@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">梨.18</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show">梨.18</string>
+    <string name="title_activity_welcome">梨.18</string>
+    <string name="title_activity_pic">梨.18</string>
+    <string name="title_activity_feng">MainActivity</string>
+    <string name="title_activity_ying">MainActivity</string>
+    <string name="title_activity_yin">MainActivity</string>
+    <string name="title_activity_yi">MainActivity</string>
+    <string name="title_activity_Pyin">MainActivity</string>
+    <string name="title_activity_Zhou">MainActivity</string>
+
+</resources>

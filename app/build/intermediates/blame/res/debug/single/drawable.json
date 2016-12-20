@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_background.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\drawable\\selector_tab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_read_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\drawable\\tab_read_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fat_po.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\drawable\\fat_po.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_music_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\drawable\\tab_music_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Surprise2\\app\\src\\main\\res\\drawable\\tab_home_btn.xml"
+    }
+]

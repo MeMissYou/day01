@@ -1,0 +1,77 @@
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/beijing"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/home2" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView1"
+            android:layout_below="@+id/textView3"
+            android:layout_marginTop="30dp"
+            android:text="by 菲茨杰拉德"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/imageView1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="17dp"
+            android:text="VOL.125"
+            android:textColor="#cdcdcd"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView3"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="14dp"
+            android:text="   我很舍不得你，但是再见&amp;linali 作品"
+            android:textColor="#cdcdcd"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView1"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="28dp"
+            android:text="   人生不就是先进攻在撤退，中间夹上一句我爱你。"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/textView2"
+            android:layout_below="@+id/textView6"
+            android:layout_marginTop="31dp"
+            android:gravity="left"
+            android:text="Fn 18 Mar.2016"
+            android:textColor="#cdcdcd"
+            android:textSize="11sp" />
+
+    </RelativeLayout>
+
+

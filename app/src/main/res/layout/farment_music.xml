@@ -1,0 +1,196 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fffafa"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="音乐"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="2dp"
+        android:background="#c0c0c0"
+        android:text="-" />
+
+    <LinearLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:background="#D0D0AE"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_margin="1dp" 
+            >
+            
+        </android.support.v4.view.ViewPager>
+
+        <LinearLayout
+            android:id="@+id/ll"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#D0D0AE"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="湖底住着一个妖怪，有风的时候他会出来看看（孤单篇）"
+                android:textColor="#252331"
+                android:textSize="25dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="湖底住着一个妖怪，有风的时候他会出来看一看。那个晒小鱼干儿的姑娘，辫子上绑着她自己纺的红线。
+
+
+                                                                            湖底住着一个妖怪，有风的时候他会出来看一看。那些飘摇的渔船，能不能悄悄在水里帮着稳一下船板。
+
+
+                                                                            湖底住着一个妖怪，有风的时候他会出来看一看。湖边芦苇中的鸟儿孵着蛋，荡掉了捞出来把它们送还。
+
+
+                                                                            湖底住着一个妖怪，有风的时候他会出来看一看。桃花开满岸，花瓣会漂落铺满水面，水底的水草可没这么好看。
+
+                          
+                                                                            湖底住着一个妖怪，有风的时候他会出来看一看。万一下雨出现闪电，神奇的光会让他兴奋的眨眼，因为他不会说也听不见。
+
+
+                                                                            湖底住着一个妖怪，有风的时候他会出来看一看。
+
+
+                                                                                             没风的时候，他在湖底，继续习惯着黑暗。
+
+
+                                                                                           他在等风来。"
+                android:textColor="#8D6472"
+                android:textSize="22dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="200dp"
+                android:text="已近没有了..."
+                android:textColor="#c0c0c0"
+                android:textSize="18dp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="200dp"
+                android:background="#c0c0c0"
+                android:text="-" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="不知道你会不会发现这里(如果你不傻的话),前面的美文,只是一个引子而已 .    生 日 快 乐! 妹 妹  .
+
+
+                                                                               那么我们开始吧!先和你说说做这个礼物的过程.从有想法到现在最终完成一共用了20几天吧,具体时间我也忘记了.
+                                                                            时间这么长,也有点不应该.不过这中间的精力,确是用了好多,从初步的构思,搭建框架,完成初步布局,添加功能,
+                                                                            完成1.0版本,也就是最初的版本.时间大多用到去找图片,P图片去了.关于各个页面我会和你细说,当中也有一点
+                                                                            无奈.先说图片,本来打算把我们几个的照片都放在里面,但如果没放齐,有人会有意见的.但怎么算是放齐了,这是一个
+                                                                            问题所在.每一张图片都有着特殊的意义,不知道你有没有注意.文字也一样,这可不是随便找的,那些话,我是希望你
+                                                                            记住的.
+
+
+                                                                            初步构思的时候,最要时间.因为没有过生日祝福类的app,所以一切都要自己去做,这很伤脑.为了这个我想了几天.一有
+                                                                            想法我就加上了.结果搞得后来,加加减减做了好多无用功.说的过分点头发都白了好多.前两个星期一直都在实现初步的
+                                                                            版本.后来发现就用我以前做过的一个APP,把它作为大框架来做现在这个,于是初步的版本就出来了.
+
+                          
+                                                                            随着基本框架的实现,就可以进入基本功能的搭建,随后的个把星期就一直在做,每次下班回去,就把APP,安装到自己手机
+                                                                            上一遍遍的把玩,看那些不好看,不怎么好的明天在修改.这又是一个烧脑的步骤.随着自己把玩,对界面的美观,功能的优化
+                                                                            起了很大的作用,这一步就属于测试阶段了,项目的过程也就步入中旬.
+
+
+
+                                                                            项目的最终完成,不是那么简单,我还要测试多遍.对一些细节的修改和图片的调整,这都是很耗时费力的.但为了项目可以
+                                                                            更加完美,这一步还是硬着头做了,反正离你生日的时间还早.但时间也是有一个度的,因此2016.9.12这天终于完成了
+                                                                            离自己所期望的时间早了几天.不过还是出了点小问题，不过现在改好了。
+                                                                            
+                                                                            
+                                                                            看到自己一行一行敲出来的东西，心里挺舒服的。代码差不多也有两万多行吧。不知觉也敲了这么多，光是怎个
+                                                                            项目文件有15兆吧。看上去不多，实际上算很多了。这个你没学过你是不懂的，说了这么多，估计你也蒙了，没事，会用就好了。
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            不知这份礼物你喜欢不，亲爱的老妹！   "
+                android:textColor="#8D6472"
+                android:textSize="22dp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="2dp"
+                android:background="#c0c0c0"
+                android:text="-" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="如果你觉得开心了就 :"
+                    android:textColor="#f0f0f0"
+                    android:textSize="25dp" />
+
+                <Button
+                    android:id="@+id/btn_cell"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@null"
+                    android:gravity="center"
+                    android:text="点击我..." />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
